@@ -1,0 +1,6 @@
+baseURL = 'http://pianosin.space'
+languageCode = 'en-us'
+title = 'Pro Serv'
+theme = 'hugo-book'
+
+
