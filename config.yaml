@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://pianosin.space/
+baseURL: https://web.tiant.org/
 title: Professional Services
 theme: hugo-book
 
